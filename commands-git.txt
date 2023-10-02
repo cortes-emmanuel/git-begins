@@ -1,0 +1,7 @@
+git clone https://github.com/firtsname-surname/git-begins.git
+
+git add
+
+git commit -m
+
+git push
